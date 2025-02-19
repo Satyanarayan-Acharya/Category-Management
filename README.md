@@ -3,7 +3,7 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone <repository-url> 
    cd category-management
 
 1. **Start the Project**
